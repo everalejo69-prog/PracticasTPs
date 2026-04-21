@@ -139,7 +139,7 @@ Por ejemplo: `console.log( 3 + 4 * 5)` Para resolver esa expresión y saber qué
 > Cuando invocamos una función en Javascript, los argumentos son evaluados primeros (se conoce como [__non-lazy__ evaluation]()), está definido en la [especificación](http://es5.github.io/#x11.2.3).
 > No confundir el orden de ejecución con asociatividad y precedencia, [ver esta pregunta de StackOverflow](http://stackoverflow.com/questions/13849906/operator-precedence-and-associativity-with-math-floormath-random).
 
-Ahora si tuvieramos la misma precedencia entraría en juego la asociatividad, veamos un ejemplo:
+Ahora si tuvieramos la misma precedencia entraría en juego la asociativ-idad, veamos un ejemplo:
 
 ```javascript
 var a = 1, b = 2, c = 3;
